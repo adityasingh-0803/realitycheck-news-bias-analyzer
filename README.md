@@ -1,2 +1,58 @@
-# realitycheck-news-bias-analyzer
-AI-powered tool to detect news bias, sentiment &amp; credibility
+# 🧠 RealityCheck: News Bias & Credibility Analyzer
+
+**RealityCheck** is an AI-powered tool designed to detect **political bias**, **sentiment**, and **credibility** in news headlines or full articles. Built for transparency and awareness in media consumption, this tool offers:
+
+- 🔍 Bias classification (Left, Center, Right)
+- 😊 Sentiment analysis (Positive, Negative, Neutral)
+- ✅ Credibility estimation (High, Medium, Low)
+- 📊 Live charts + textual explanation
+- 🧾 Works offline (no API key required)
+
+---
+
+## 🚀 Demo
+
+Try it live on Scribbler (embed this link or iframe if hosted):  
+**[Try the Notebook](https://scribbler.live/your_notebook_url)**
+
+![Demo Screenshot](assets/demo.png)
+
+---
+
+## 📦 Features
+
+- 🔍 NLP-based bias detection
+- 📈 Pie charts for bias/sentiment/credibility
+- 🗃️ JSNB notebook format — ideal for hackathons
+- 🧠 Local ML model — no need for OpenAI API key
+- 📤 GitHub integration for versioning
+
+---
+
+## 📂 Folder Structure
+
+| Path              | Description                      |
+|-------------------|----------------------------------|
+| `notebook/`       | Scribbler-compatible `.jsnb`     |
+| `utils/`          | ML + NLP helper functions        |
+| `assets/`         | Screenshots, logos               |
+| `models/`         | Pretrained model files (optional)|
+| `requirements.txt`| Python dependencies              |
+
+---
+
+## 🧠 How It Works
+
+The notebook takes a news article or headline and:
+1. Detects **keywords** associated with left/right-leaning language.
+2. Analyzes **sentiment polarity** (positive, neutral, negative).
+3. Checks for **trust signals** like length, clickbait, unknown phrases.
+4. Displays results with **pie charts** and **natural language explanation**.
+
+---
+
+## 🔧 Requirements
+
+```bash
+pip install -r requirements.txt
+
