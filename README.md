@@ -15,7 +15,7 @@
 Try it live on Scribbler (embed this link or iframe if hosted):  
 **[Try the Notebook](https://scribbler.live/your_notebook_url)**
 
-![Demo Screenshot](assets/demo.png)
+![Demo Screenshot](![image](https://github.com/user-attachments/assets/33571628-43dc-4ab3-96f1-89641b3f9f92))
 
 ---
 
