@@ -12,8 +12,8 @@
 
 ## 🚀 Demo
 
-Try it live on Scribbler (embed this link or iframe if hosted):  
-**[Try the Notebook](https://scribbler.live/your_notebook_url)**
+### 🧠 RealityCheck: News Bias & Credibility Analyzer
+**[🚀 Try the Live Notebook →](https://app.scribbler.live/?jsnb=github:adityasingh-0803/realitycheck-news-bias-analyzer/Realitycheck.jsnb)**
 
 ![Demo Screenshot](https://github.com/user-attachments/assets/33571628-43dc-4ab3-96f1-89641b3f9f92)
 
