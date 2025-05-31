@@ -1,5 +1,7 @@
 # 🧠 RealityCheck: News Bias & Credibility Analyzer
 
+**RealityCheck** is an AI-powered tool that detects political bias, sentiment, and credibility in any news article or headline. It helps users critically assess media using only keyword analysis and NLP logic—no APIs or cloud models required. Built inside a JSNB notebook using Scribbler, it shows results with pie charts and color-coded visuals. RealityCheck is fast, offline-friendly, and a step toward fighting misinformation.
+
 **RealityCheck** is an AI-powered tool designed to detect **political bias**, **sentiment**, and **credibility** in news headlines or full articles. Built for transparency and awareness in media consumption, this tool offers:
 
 - 🔍 Bias classification (Left, Center, Right)
